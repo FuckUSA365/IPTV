@@ -19,8 +19,8 @@ max_lines_per_channel = 8
 # main.py 会依次请求这些地址，提取频道名和播放地址
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
-    "gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u"
-    "www.kaniptv.cc.cd"
+    https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+    https://www.kaniptv.cc.cd
 ]
 
 # ── 酒店源 ────────────────────────────────────────────
