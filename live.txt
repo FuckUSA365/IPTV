@@ -1,58 +1,62 @@
 公告-yuanzl77,#genre#
 央视频道,#genre#
-CCTV1,http://45.192.97.170:8880/play/202.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV2,http://45.192.97.170:8880/play/203.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV3,http://45.192.97.170:8880/play/204.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV4,http://45.192.97.170:8880/play/205.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV5,http://45.192.97.170:8880/play/206.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV5+,http://45.192.97.170:8880/play/207.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 4kbps】
+CCTV1,http://45.192.97.170:8880/play/202.m3u8$LR—IPV4 【1920x1080@256kbps 1kbps】
+CCTV2,http://45.192.97.170:8880/play/203.m3u8$LR—IPV4 【1920x1080 256kbps】
+CCTV3,http://45.192.97.170:8880/play/204.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV4,http://45.192.97.170:8880/play/205.m3u8$LR—IPV4 【1920x1080@256kbps 1kbps】
+CCTV5,http://45.192.97.170:8880/play/206.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV5+,http://45.192.97.170:8880/play/207.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 2kbps】
 CCTV5+,http://45.192.97.170:8880/play/224.m3u8$LR—IPV4【线路2】 【1280x720】
-CCTV6,http://45.192.97.170:8880/play/208.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV7,http://45.192.97.170:8880/play/209.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV8,http://45.192.97.170:8880/play/210.m3u8$LR—IPV4 【1920x1080 256kbps】
-CCTV9,http://45.192.97.170:8880/play/211.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV11,http://45.192.97.170:8880/play/213.m3u8$LR—IPV4 【1920x1080@256kbps 1kbps】
-CCTV12,http://45.192.97.170:8880/play/214.m3u8$LR—IPV4 【1920x1080@256kbps 2kbps】
-CCTV13,http://45.192.97.170:8880/play/215.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 4kbps】
+CCTV6,http://45.192.97.170:8880/play/208.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV7,http://45.192.97.170:8880/play/209.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV8,http://45.192.97.170:8880/play/210.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV9,http://45.192.97.170:8880/play/211.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV10,http://45.192.97.170:8880/play/212.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV11,http://45.192.97.170:8880/play/213.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV12,http://45.192.97.170:8880/play/214.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV13,http://45.192.97.170:8880/play/215.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 3kbps】
 CCTV13,http://45.192.97.170:8880/play/380.m3u8$LR—IPV4【线路2】 【1920x1080】
-CCTV14,http://45.192.97.170:8880/play/216.m3u8$LR—IPV4 【1920x1080 256kbps】
-CCTV15,http://45.192.97.170:8880/play/217.m3u8$LR—IPV4 【1920x1080@256kbps 4kbps】
-CCTV17,http://45.192.97.170:8880/play/218.m3u8$LR—IPV4 【1920x1080@256kbps 1kbps】
+CCTV14,http://45.192.97.170:8880/play/216.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+CCTV15,http://45.192.97.170:8880/play/217.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
 广东频道,#genre#
-广东珠江,http://45.192.97.170:8880/play/405.m3u8$LR—IPV4 【1920x1080 256kbps】
+广东珠江,http://45.192.97.170:8880/play/345.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 3kbps】
+广东珠江,http://45.192.97.170:8880/play/405.m3u8$LR—IPV4【线路2】 【1920x1080 256kbps】
 广东体育,http://45.192.97.170:8880/play/406.m3u8$LR—IPV4 【1920x1080 256kbps】
+广东影视,http://45.192.97.170:8880/play/346.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
+广州综合,http://45.192.97.170:8880/play/446.m3u8$LR—IPV4 【1280x720】
 深圳卫视,http://45.192.97.170:8880/play/259.m3u8$LR—IPV4 【1920x1080】
 卫视频道,#genre#
 湖南卫视,http://45.192.97.170:8880/play/254.m3u8$LR—IPV4 【1920x1080】
-浙江卫视,http://45.192.97.170:8880/play/261.m3u8$LR—IPV4 【1920x1080】
+浙江卫视,http://45.192.97.170:8880/play/261.m3u8$LR—IPV4 【1280x720】
 东方卫视,http://45.192.97.170:8880/play/251.m3u8$LR—IPV4 【1920x1080】
 北京卫视,http://45.192.97.170:8880/play/250.m3u8$LR—IPV4 【1920x1080】
 江苏卫视,http://45.192.97.170:8880/play/255.m3u8$LR—IPV4 【1920x1080】
 安徽卫视,http://45.192.97.170:8880/play/249.m3u8$LR—IPV4 【1920x1080】
-重庆卫视,http://45.192.97.170:8880/play/271.m3u8$LR—IPV4 【1920x1080】
+重庆卫视,http://45.192.97.170:8880/play/271.m3u8$LR—IPV4 【1280x720】
 东南卫视,http://45.192.97.170:8880/play/252.m3u8$LR—IPV4 【1920x1080】
 广东卫视,http://45.192.97.170:8880/play/253.m3u8$LR—IPV4 【1920x1080】
 广西卫视,http://45.192.97.170:8880/play/270.m3u8$LR—IPV4 【1920x1080】
 江西卫视,http://45.192.97.170:8880/play/256.m3u8$LR—IPV4 【1920x1080】
 内蒙古卫视,http://45.192.97.170:8880/play/264.m3u8$LR—IPV4 【1920x1080】
-辽宁卫视,http://45.192.97.170:8880/play/257.m3u8$LR—IPV4 【1280x720】
+辽宁卫视,http://45.192.97.170:8880/play/257.m3u8$LR—IPV4 【1920x1080】
 青海卫视,http://45.192.97.170:8880/play/279.m3u8$LR—IPV4 【1920x1080】
 山东卫视,http://45.192.97.170:8880/play/258.m3u8$LR—IPV4 【1920x1080】
-天津卫视,http://45.192.97.170:8880/play/260.m3u8$LR—IPV4 【1280x720】
+天津卫视,http://45.192.97.170:8880/play/260.m3u8$LR—IPV4 【1920x1080】
 海南卫视,http://45.192.97.170:8880/play/276.m3u8$LR—IPV4 【1920x1080】
 新疆卫视,http://45.192.97.170:8880/play/263.m3u8$LR—IPV4 【1920x1080】
-西藏卫视,http://45.192.97.170:8880/play/262.m3u8$LR—IPV4 【1280x720】
+西藏卫视,http://45.192.97.170:8880/play/262.m3u8$LR—IPV4 【1920x1080】
 海峡卫视,http://45.192.97.170:8880/play/425.m3u8$LR—IPV4 【1920x1080 256kbps】
 港·澳·台,#genre#
-凤凰中文,http://45.192.97.170:8880/play/326.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 4kbps】
-凤凰中文,http://45.192.97.170:8880/play/378.m3u8$LR—IPV4【线路2】 【1920x1080】
-凤凰资讯,http://45.192.97.170:8880/play/344.m3u8$LR—IPV4【线路1】 【1920x1080 256kbps】
+凤凰中文,http://45.192.97.170:8880/play/326.m3u8$LR—IPV4【线路1】 【1920x1080@256kbps 3kbps】
+凤凰中文,http://45.192.97.170:8880/play/343.m3u8$LR—IPV4【线路2】 【1920x1080 256kbps】
+凤凰中文,http://45.192.97.170:8880/play/378.m3u8$LR—IPV4【线路3】 【1920x1080】
+凤凰资讯,http://45.192.97.170:8880/play/325.m3u8$LR—IPV4【线路1】 【1920x1080 256kbps】
 凤凰资讯,http://45.192.97.170:8880/play/396.m3u8$LR—IPV4【线路2】 【1920x1080】
 凤凰香港,http://45.192.97.170:8880/play/397.m3u8$LR—IPV4 【1920x1080】
 翡翠台,http://45.192.97.170:8880/play/401.m3u8$LR—IPV4 【1920x1080 256kbps】
 无线新闻,http://45.192.97.170:8880/play/404.m3u8$LR—IPV4【线路1】 【1920x1080】
 无线新闻,http://45.192.97.170:8880/play/422.m3u8$LR—IPV4【线路2】 【1280x720】
-东森电影,http://45.192.97.170:8880/play/333.m3u8$LR—IPV4 【1920x1080 256kbps】
+东森电影,http://45.192.97.170:8880/play/333.m3u8$LR—IPV4 【1920x1080@256kbps 3kbps】
 少儿频道,#genre#
 影视频道,#genre#
 
