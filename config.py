@@ -12,16 +12,16 @@ ip_version_priority = "ipv6"
 source_priority = "subscription"
 
 # 每频道最大线路数，0 = 不限制
-max_lines_per_channel = 8
+max_lines_per_channel = 3
 
 # ── 订阅源 ───────────────────────────────────────────────────────
 # 每个 URL 都是一个 IPTV 直播源文件（支持 m3u 或 txt 格式）
 # main.py 会依次请求这些地址，提取频道名和播放地址
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
-    "https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u",
-    "https://www.kaniptv.cc.cd"
-]
+    "https://www.kaniptv.cc.cd",
+    "https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u"
+    ]
 
 # ── 酒店源 ────────────────────────────────────────────
 # hotel_api   : 酒店源 API 地址
@@ -31,7 +31,7 @@ source_urls = [
 #                      "Alibaba Cloud", "Tencent" 等
 hotel_config = {
     "hotel_api": "",
-    "enabled": True,
+    "enabled": False,
     "allowed_orgs": ["China Mobile","Alibaba Cloud"],
 }
 
@@ -77,7 +77,7 @@ epg_urls = [
 # check_max_conn       : 最大并发检测数，调高可加速但更占带宽
 enable_quality_check = True
 check_timeout    = 3.5
-check_max_conn   = 80
+check_max_conn   = 10
 
 # ── 质量检测 — FFprobe 中度探测 ───────────────────────────────────────
 # enable_ffprobe     : True=启用第二层 FFprobe 探测，False=仅 HTTP 快筛
@@ -96,7 +96,7 @@ ffmpeg_path        = ""        # 空 = 使用系统 PATH 里的 ffprobe
 enable_ffprobe     = True
 ffprobe_timeout    = 3.5
 min_bitrate        = 0         # min_bitrate = 200000 → 码率>0 且 <200kbps 的源会被淘汰；码率=0 的源不受影响
-min_resolution     = "720"     # 宽度最低 720px
+min_resolution     = "1080"     # 宽度最低 1080px
 ffprobe_max_streams = 3
 
 # ── 深度探测配置 ───────────────────────────────────────────────────────
@@ -109,4 +109,4 @@ ffprobe_max_streams = 3
 #                      建议 2000（2 Mbps）避免推流卡顿
 enable_deep_probe  = True
 deep_probe_timeout = 5.0
-min_speed_kbps     = 2500  # 2.5 Mbps
+min_speed_kbps     = 1000  # 1.0 Mbps
